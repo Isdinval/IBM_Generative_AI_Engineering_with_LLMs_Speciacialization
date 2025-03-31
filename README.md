@@ -9,7 +9,7 @@ Ce dépôt contient des notes, des projets et des implémentations pratiques iss
 
 - **Fournisseur** : IBM via Coursera  
 - **Certification** : ✅ Complétée  
-- **Durée** : 3 mois (4 heures par semaine)  
+- **Durée** : 3 mois
 - **Niveau** : Intermédiaire  
 - **Technologies clés** : PyTorch, Hugging Face Transformers, RAG, LangChain, WatsonX, NLP, Reinforcement Learning (PPO)  
 - **Projet final** : Développement d’un **AI Bot de Question-Réponse** utilisant **RAG** et **LangChain**  
